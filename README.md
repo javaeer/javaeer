@@ -1,18 +1,17 @@
-<h1 align="center">■ 张三 ■</h1>
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Helvetica&size=24&pause=1000&color=e3000f&center=true&vCenter=true&width=600&lines=%E5%85%A8%E6%A0%88%E5%BC%80%E5%8F%91%E8%80%85" alt="全栈开发者" /></p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:006d77,100:83c5be&height=120&section=header&text=%E5%BC%A0%E4%B8%89&fontSize=50&fontColor=ffffff" />
 
-坐标杭州，专注于 Web 开发和开发者工具。
+> 全栈开发者
 
-## $\color{#e3000f}\text{■}$ 项目
+| | |
+|---|---|
+| **关于** | 坐标杭州，专注于 Web 开发和开发者工具。 |
 
-- $\color{#e3000f}\text{▪}$ **[$\color{#e3000f}\text{springboot-ftp-server}$](https://github.com/javaeer/springboot-ftp-server)** ⭐ 3
-- $\color{#e3000f}\text{▪}$ **[$\color{#e3000f}\text{fast-url}$](https://github.com/javaeer/fast-url)** ⭐ 3
-- $\color{#e3000f}\text{▪}$ **[$\color{#e3000f}\text{vidu-java-sdk}$](https://github.com/javaeer/vidu-java-sdk)** ⭐ 3
-- $\color{#e3000f}\text{▪}$ **[$\color{#e3000f}\text{story-timeline-view}$](https://github.com/javaeer/story-timeline-view)** ⭐ 2
-- $\color{#e3000f}\text{▪}$ **[$\color{#e3000f}\text{maps-dashboard}$](https://github.com/javaeer/maps-dashboard)** ⭐ 2
+<img src="https://github-readme-stats.vercel.app/api?username=user&show_icons=true&theme=blue-green&hide_border=true" />
 
-> 在「GitHub」链接中填写用户名后，这里会自动显示 Star / 提交 / PR / 语言分布统计卡片。
-
-$\color{#e3000f}\text{—}$ $\color{#e3000f}\text{—}$ $\color{#e3000f}\text{—}$
-
-> 本 README 由 readme-studio 生成 · 开源地址：https://github.com/readme-studio/readme-studio.git
+## 🚢 项目
+- [springboot-ftp-server](https://github.com/javaeer/springboot-ftp-server) — 一个基于 Spring Boot 2 的嵌入式 FTP 文件服务器，底层使用 Apache FtpServer。应用随 Spring Boot 一同启动即自动拉起一个 FTP 服务，无需额外部署 FTP 守护进程，适合作为轻量级文件 / 图片存储与分发后端，配合 Nginx 即可对外提供 HTTP 访问。
+- [fast-url](https://github.com/javaeer/fast-url) — 一个基于 Spring Boot 的短链接服务：把冗长的原始网址压缩为短码，访问短链时再 302 重定向回原始网址，并通过 Redis 缓存加速、RabbitMQ 异步统计访问次数。适合作为营销短链、站内短链分发等场景的后端。
+- [vidu-java-sdk](https://github.com/javaeer/vidu-java-sdk) — 基于 Java 的 Vidu AI 视频生成开放 API（v2）客户端 SDK，覆盖文生视频、图生视频、参考生视频、首末帧生视频、模板生视频与任务查询，封装鉴权、请求校验与响应解析。
+- [story-timeline-view](https://github.com/javaeer/story-timeline-view) — 
+- [maps-dashboard](https://github.com/javaeer/maps-dashboard) — 基于地图的看板大屏
+- [bar-chart-race](https://github.com/javaeer/bar-chart-race) — bar-chart-race
